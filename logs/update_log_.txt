@@ -109,3 +109,8 @@
 2024-10-24 23:31:34,345 - INFO - --------------------------------------------------
 2024-10-24 23:31:34,346 - INFO - Starting update process...
 2024-10-24 23:31:37,278 - INFO - No update needed
+2024-10-24 23:31:38,396 - INFO - Successfully uploaded update_log.txt to GitHub
+2024-10-24 23:32:35,580 - INFO - --------------------------------------------------
+2024-10-24 23:32:35,581 - INFO - Starting update process...
+2024-10-24 23:32:38,112 - INFO - Updating from version 0.0 to 0.2
+2024-10-24 23:32:44,259 - INFO - Update completed successfully
