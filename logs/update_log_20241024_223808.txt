@@ -1,0 +1,87 @@
+2024-10-20 18:34:36,538 - INFO - File downloaded as ver.txt
+2024-10-20 18:34:36,540 - INFO - Version is up to date
+2024-10-20 18:34:36,541 - INFO - No updates required
+2024-10-20 18:35:10,200 - INFO - File downloaded as ver.txt
+2024-10-20 18:35:10,202 - INFO - New version found: 3
+2024-10-20 18:35:10,203 - INFO - Downloading new files...
+2024-10-20 18:35:13,179 - INFO - File downloaded as downloads\index.html
+2024-10-20 18:35:16,003 - INFO - File downloaded as downloads\admin.sqlite
+2024-10-20 18:35:18,957 - INFO - File downloaded as downloads\ver.txt
+2024-10-20 18:35:18,959 - INFO - All files downloaded successfully. Updating...
+2024-10-20 18:35:19,006 - INFO - Updated index.html
+2024-10-20 18:35:19,010 - INFO - Updated admin.sqlite
+2024-10-20 18:35:19,013 - INFO - Updated ver.txt
+2024-10-20 18:35:19,013 - INFO - Update completed successfully
+2024-10-20 21:52:19,058 - INFO - File downloaded as ver.txt
+2024-10-20 21:52:19,061 - INFO - Version is up to date
+2024-10-20 21:52:19,061 - INFO - No updates required
+2024-10-20 22:00:33,446 - INFO - ---------------------------------------------
+2024-10-20 22:00:37,215 - INFO - File downloaded as ver.txt
+2024-10-20 22:00:37,217 - INFO - New version found: 4
+2024-10-20 22:00:37,218 - INFO - Downloading new files...
+2024-10-20 22:00:40,280 - INFO - File downloaded as downloads\index.html
+2024-10-20 22:00:44,391 - INFO - File downloaded as downloads\admin.sqlite
+2024-10-20 22:00:47,326 - INFO - File downloaded as downloads\ver.txt
+2024-10-20 22:00:47,327 - INFO - All files downloaded successfully. Updating...
+2024-10-20 22:00:47,479 - INFO - Updated index.html
+2024-10-20 22:00:47,482 - ERROR - Error during file update: [WinError 183] Nem lehet fájlt létrehozni, ha az adott fájl már létezik: 'admin.sqlite' -> 'admin.sqlite.old'
+2024-10-20 22:00:47,483 - ERROR - Update failed. Rolling back...
+2024-10-20 22:00:47,485 - INFO - Rolled back index.html
+2024-10-20 22:00:47,487 - INFO - Rolled back admin.sqlite
+2024-10-20 22:00:47,490 - INFO - Rolled back ver.txt
+2024-10-20 23:01:21,190 - INFO - ---------------------------------------------
+2024-10-20 23:01:23,863 - INFO - File downloaded as ver.txt
+2024-10-20 23:01:23,866 - INFO - New version found: 4
+2024-10-20 23:01:23,866 - INFO - Downloading new files...
+2024-10-20 23:01:26,613 - INFO - File downloaded as downloads\index.html
+2024-10-20 23:01:29,248 - INFO - File downloaded as downloads\admin.sqlite
+2024-10-20 23:01:31,796 - INFO - File downloaded as downloads\ver.txt
+2024-10-20 23:01:31,797 - INFO - All files downloaded successfully. Updating...
+2024-10-20 23:01:31,870 - INFO - Updated index.html
+2024-10-20 23:01:31,882 - INFO - Updated admin.sqlite
+2024-10-20 23:01:31,887 - INFO - Updated ver.txt
+2024-10-20 23:01:31,888 - INFO - Update completed successfully
+2024-10-20 23:08:39,019 - INFO - ---------------------------------------------
+2024-10-20 23:08:41,833 - INFO - File downloaded as ver.txt
+2024-10-20 23:08:41,835 - INFO - Version is up to date
+2024-10-20 23:08:41,836 - INFO - No updates required
+2024-10-20 23:09:08,507 - INFO - ---------------------------------------------
+2024-10-20 23:09:11,518 - INFO - File downloaded as ver.txt
+2024-10-20 23:09:11,519 - INFO - New version found: 5
+2024-10-20 23:09:11,519 - INFO - Downloading new files...
+2024-10-20 23:09:14,230 - INFO - File downloaded as downloads\index.html
+2024-10-20 23:09:17,267 - INFO - File downloaded as downloads\admin.sqlite
+2024-10-20 23:09:19,944 - INFO - File downloaded as downloads\ver.txt
+2024-10-20 23:09:19,945 - INFO - All files downloaded successfully. Updating...
+2024-10-20 23:09:19,996 - INFO - Updated index.html
+2024-10-20 23:09:20,002 - INFO - Updated admin.sqlite
+2024-10-20 23:09:20,007 - INFO - Updated ver.txt
+2024-10-20 23:09:20,007 - INFO - Update completed successfully
+2024-10-20 23:27:46,585 - INFO - ---------------------------------------------
+2024-10-20 23:27:49,587 - INFO - File downloaded as downloads\temp_ver.txt
+2024-10-20 23:27:49,589 - INFO - Version is up to date
+2024-10-20 23:27:49,589 - INFO - No updates required
+2024-10-20 23:43:43,411 - INFO - ---------------------------------------------
+2024-10-20 23:43:46,389 - INFO - File downloaded as downloads\temp_ver.txt
+2024-10-20 23:43:46,392 - INFO - Version is up to date
+2024-10-20 23:43:46,393 - INFO - No updates required
+2024-10-20 23:45:46,960 - INFO - ---------------------------------------------
+2024-10-20 23:45:49,469 - INFO - File downloaded as downloads\temp_ver.txt
+2024-10-20 23:45:49,472 - INFO - New version found: 0.1
+2024-10-20 23:45:49,477 - INFO - Current version backed up as ver.txt.old
+2024-10-20 23:45:49,484 - INFO - Version file updated to 0.1
+2024-10-20 23:45:49,484 - INFO - Downloading new files...
+2024-10-20 23:45:52,588 - INFO - File downloaded as downloads\index.html
+2024-10-20 23:45:55,124 - INFO - File downloaded as downloads\admin.sqlite
+2024-10-20 23:45:55,126 - INFO - All files downloaded successfully. Updating...
+2024-10-20 23:45:55,180 - ERROR - Error during file update: [Errno 2] No such file or directory: 'programfiles\\index.html'
+2024-10-20 23:45:55,180 - ERROR - Update failed. Rolling back...
+2024-10-24 22:35:35,246 - INFO - ---------------------------------------------
+2024-10-24 22:35:37,941 - INFO - File downloaded as downloads\temp_ver.txt
+2024-10-24 22:35:37,943 - INFO - Version is up to date
+2024-10-24 22:35:37,944 - INFO - No updates required
+2024-10-24 22:35:38,606 - ERROR - Failed to upload file to GitHub. Status code: 401
+2024-10-24 22:38:06,061 - INFO - ---------------------------------------------
+2024-10-24 22:38:08,524 - INFO - File downloaded as downloads\temp_ver.txt
+2024-10-24 22:38:08,527 - INFO - Version is up to date
+2024-10-24 22:38:08,527 - INFO - No updates required
